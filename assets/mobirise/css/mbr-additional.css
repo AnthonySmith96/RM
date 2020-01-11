@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,600,600i,700,700i&display=swap);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700&display=swap);
 
 
 
@@ -8,7 +8,7 @@ body {
   font-family: Rubik;
 }
 .display-1 {
-  font-family: 'Crimson Text', serif;
+  font-family: 'PT Sans Narrow', sans-serif;
   font-size: 4.25rem;
   font-display: swap;
 }
@@ -16,7 +16,7 @@ body {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Crimson Text', serif;
+  font-family: 'PT Sans Narrow', sans-serif;
   font-size: 3rem;
   font-display: swap;
 }
@@ -24,7 +24,7 @@ body {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Crimson Text', serif;
+  font-family: 'PT Sans Narrow', sans-serif;
   font-size: 1rem;
   font-display: swap;
 }
@@ -32,7 +32,7 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Crimson Text', serif;
+  font-family: 'PT Sans Narrow', sans-serif;
   font-size: 1.5rem;
   font-display: swap;
 }
@@ -40,7 +40,7 @@ body {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Crimson Text', serif;
+  font-family: 'PT Sans Narrow', sans-serif;
   font-size: 1rem;
   font-display: swap;
 }
@@ -546,7 +546,7 @@ a:hover {
   border-radius: 100px;
 }
 .form-control {
-  font-family: 'Crimson Text', serif;
+  font-family: 'PT Sans Narrow', sans-serif;
   font-size: 1rem;
   font-display: swap;
 }
@@ -955,7 +955,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-rMRtwBlVBX .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 4.8rem);
   }
 }
 .cid-rMRtwBlVBX .collapsed button.navbar-toggler {
@@ -1169,6 +1169,7 @@ section.lazy-placeholder:after {
 }
 .cid-rMRViGcewI .card-title {
   color: #232323;
+  text-align: center;
 }
 .cid-rMRWRvJuue {
   padding-top: 60px;
@@ -1254,7 +1255,7 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-rMV8ZyESyi {
-  padding-top: 120px;
+  padding-top: 90px;
   padding-bottom: 45px;
   background-image: url("../../../assets/images/andrew-childress-103062-unsplash-2000x1333.jpg");
 }
@@ -1783,7 +1784,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-rMRtwBlVBX .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 4.8rem);
   }
 }
 .cid-rMRtwBlVBX .collapsed button.navbar-toggler {
@@ -2263,7 +2264,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-rMRtwBlVBX .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 4.8rem);
   }
 }
 .cid-rMRtwBlVBX .collapsed button.navbar-toggler {
@@ -2425,7 +2426,7 @@ section.lazy-placeholder:after {
 .cid-rMVzISryBR {
   padding-top: 90px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/ags-745x412.jpg");
+  background-image: url("../../../assets/images/ags.jpg");
 }
 .cid-rMVzISryBR div.b {
   padding-top: 2rem;
@@ -2485,7 +2486,7 @@ section.lazy-placeholder:after {
 .cid-rMVCuNGHZX {
   padding-top: 90px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/cdmx-630x472.jpg");
+  background-image: url("../../../assets/images/cdmx.jpg");
 }
 .cid-rMVCuNGHZX div.b {
   padding-top: 2rem;
@@ -2605,7 +2606,7 @@ section.lazy-placeholder:after {
 .cid-rMVD4IX27R {
   padding-top: 90px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/leon-1023x471.jpg");
+  background-image: url("../../../assets/images/leon.jpg");
 }
 .cid-rMVD4IX27R div.b {
   padding-top: 2rem;
@@ -2985,7 +2986,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-rMRtwBlVBX .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 4.8rem);
   }
 }
 .cid-rMRtwBlVBX .collapsed button.navbar-toggler {
@@ -3335,7 +3336,7 @@ section.lazy-placeholder:after {
   width: 100%;
 }
 .cid-rMVaro3eEQ {
-  padding-top: 90px;
+  padding-top: 135px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/ricardo-gomez-angel-402945-unsplash-2000x2666.jpg");
 }
@@ -3407,6 +3408,7 @@ section.lazy-placeholder:after {
 }
 .cid-rMVaro3eEQ P {
   color: #efefef;
+  text-align: left;
 }
 .cid-rMVcF1IEOe {
   padding-top: 30px;
@@ -4210,7 +4212,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-rMRtwBlVBX .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 4.8rem);
   }
 }
 .cid-rMRtwBlVBX .collapsed button.navbar-toggler {
@@ -4687,7 +4689,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-rMRtwBlVBX .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 4.8rem);
   }
 }
 .cid-rMRtwBlVBX .collapsed button.navbar-toggler {
@@ -4868,7 +4870,7 @@ section.lazy-placeholder:after {
   background-image: url("../../../assets/images/visin-de-trabajo-2000x2667.jpg");
 }
 .cid-rMV1BBC1jU H2 {
-  color: #232323;
+  color: #ffffff;
   text-align: center;
 }
 .cid-rMV6TgFVxM {
@@ -4878,7 +4880,7 @@ section.lazy-placeholder:after {
 }
 .cid-rMV6TgFVxM .mbr-section-text {
   color: #767676;
-  text-align: left;
+  text-align: center;
 }
 .cid-rMV6TgFVxM .mbr-section-subtitle {
   color: #767676;
@@ -4937,7 +4939,7 @@ section.lazy-placeholder:after {
   background-image: url("../../../assets/images/visin-de-trabajo-2000x2667.jpg");
 }
 .cid-rMV2QfOjp2 H2 {
-  color: #232323;
+  color: #ffffff;
   text-align: center;
 }
 .cid-rMV3oXxXog {
@@ -4947,7 +4949,7 @@ section.lazy-placeholder:after {
 }
 .cid-rMV3oXxXog .mbr-section-text {
   color: #767676;
-  text-align: left;
+  text-align: center;
 }
 .cid-rMV3oXxXog .mbr-section-subtitle {
   color: #767676;
